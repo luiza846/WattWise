@@ -12,6 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WattWise">
         <activity
+            android:name=".TelaPrincipal"
+            android:exported="false"
+            android:label="@string/title_activity_tela_principal"
+            android:theme="@style/Theme.WattWise" />
+        <activity
             android:name=".CriarConta"
             android:exported="false" />
         <activity
