@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WattWise" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#375078</item> <!-- fundo -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- icones e txt -->
+    </style>
+
+    <style name="Theme.WattWise" parent="Base.Theme.WattWise" />
+</resources>
